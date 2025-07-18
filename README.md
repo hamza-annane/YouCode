@@ -37,7 +37,7 @@ Welcome to the **YouCode Piscine Prep** roadmap – your structured guide for pr
 
 - Structured progression from **fundamentals to advanced**.
 - Hands-on **mini-projects** after each major concept.
-- Specifically designed for **42 Piscine candidates**.
+- Specifically designed for **YouCode candidates**.
 
 ---
 
