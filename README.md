@@ -1,6 +1,6 @@
 # YouCode Piscine Prep 🚀
 
-Welcome to the **YouCode Piscine Prep** roadmap – your structured guide for preparing for the **42 School Piscine**. This plan helps you build strong C programming fundamentals through daily tasks and hands-on mini-projects.
+Welcome to the **YouCode Piscine Prep** roadmap – your structured guide for preparing for the **YouCode SAS**. This plan helps you build strong C programming fundamentals through daily tasks and hands-on mini-projects.
 
 > **Journey of preparing for the Piscine.**  
 > From basics to mini-projects to mastering C – step by step.
