@@ -12,7 +12,7 @@ Welcome to the **YouCode Piscine Prep** roadmap – your structured guide for pr
 | **Day** | **Topics**                               | **Goals**                                                          | **Status**    |
 |:-------:|-------------------------------------------|--------------------------------------------------------------------|:-------------:|
 | **00**  | Basics                                   | Data types, variables, basic I/O, simple math                       | ✅ **Done**   |
-| **01**  | Conditionals                             | `if`, `else`, `else if`, nested conditionals                       | ✅ **Done**   |
+| **01**  | Conditionals                             | `if`, `else`, `else if`,`switch`, nested conditionals                       | ✅ **Done**   |
 | **02**  | Loops                                    | `for`, `while`, `do-while`, nested loops                           | ✅ **Done**   |
 | **03**  | Functions                                | Defining and using functions, parameter passing                     | ✅ **Done**   |
 | **04**  | Arrays                                   | 1D/2D arrays, array manipulation                                    | ⬜ **Pending**|
