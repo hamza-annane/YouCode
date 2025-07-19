@@ -3,7 +3,7 @@
 ![My Logo](images/youcode.png)
 
 
-Welcome to the **YouCode Piscine Prep** roadmap – your structured guide for preparing for the **YouCode SAS**. This plan helps you build strong C programming fundamentals through daily tasks and hands-on mini-projects.
+Welcome to the YouCode Piscine Prep Roadmap – my structured guide to preparing for the YouCode SAS. This roadmap is designed to help me build strong C programming fundamentals through daily tasks and practical mini-projects.
 
 > **Journey of preparing for the Piscine.**  
 > From basics to mini-projects to mastering C – step by step.
