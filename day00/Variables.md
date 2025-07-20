@@ -1,81 +1,59 @@
-## Exercices sur les Variables
-### Challenge 1 : Affichage Informations
-Écrivez un programme en C qui va permettre d'afficher vos informations personnelles : nom, prénom, âge, sexe, et adresse email. Les données sont saisies à partir du clavier.
+# C Programming - Day 00 Practice Exercises
 
-### Challenge 2 : Conversion de la température
-Écrivez un programme qui demande la température en Celsius et la transforme en Kelvin.
-Formule :
-```
-K = C + 273.15
-```
+Welcome to your first day of learning C! This set of exercises focuses on practicing **variables**, **operators**, and **input/output**.
 
-### Challenge 3 : Conversion de la distance
-Écrivez un programme qui demande la distance en kilomètres et la transforme en yards.
-Formule :
-```
-Yards = Km * 1093.61
-```
+Each exercise helps build your foundational skills with simple problem-solving.
 
-### Challenge 4 : Conversion de la vitesse
-Écrivez un programme qui demande la vitesse en kilomètres par heure (km/h) et la transforme en mètres par seconde (m/s).
-Formule :
-```
-m/s = km/h * 0.27778
-```
+---
 
-### Challenge 5 : Affichage Température
-Écrivez un programme qui demande la température en Celsius et affiche l'état de l'eau à cette température (solide, liquide, gaz).
-Règle :
+## Exercises
 
-* C < 0 : Solide
-* 0 <= C < 100 : Liquide
-* C >= 100 : Gaz
+1. **Hello, User!**  
+   Write a program that asks the user for their name and then prints:  
+   `Hello, [name]!`
 
+2. **Sum Two Numbers**  
+   Read two integers from the user and print their sum.
 
-### Challenge 6 : Calcul et affichage des résultats
-Deux nombres réels, a et b, sont saisis au clavier. Calculez et affichez a + b, a - b, a * b, et a / b avec précision décimale.
+3. **Swap Values**  
+   Read two integers, swap their values using a temporary variable, and print the swapped values.
 
+4. **Simple Arithmetic**  
+   Read two integers and print their addition, subtraction, multiplication, and division results.
 
-### Challenge 7 : Moyenne pondérée de trois nombres
-Écrivez un programme en C pour calculer la moyenne pondérée de trois nombres donnés par l'utilisateur avec les pondérations suivantes :
+5. **Area of Rectangle**  
+   Input length and width (floats) and print the area of the rectangle.
 
-* 1er nombre : pondération 2
-* 2ème nombre : pondération 3
-* 3ème nombre : pondération 5
+6. **Even or Odd**  
+   Read an integer and print whether it’s even or odd.
 
+7. **Celsius to Fahrenheit**  
+   Input a temperature in Celsius (float) and convert it to Fahrenheit. Print the result.  
+   **Formula:**  
+   `F = (C × 9/5) + 32`
 
-### Challenge 8 : Calcul de la moyenne géométrique
-Écrivez un programme en C pour trouver la moyenne géométrique de trois nombres saisis par l'utilisateur.
-Formule :
-```
-Moyenne géométrique = (a * b * c)^(1/3)
-```
+8. **Average of Three Numbers**  
+   Read three numbers and print their average (float).
 
-### Challenge 9 : Calcul de la distance entre deux points dans un espace 3D
-Écrivez un programme C pour trouver la distance entre deux points donnés dans un espace 3D.
-Formule :
-```
-Distance = √((x2-x1)² + (y2-y1)² + (z2-z1)²)
-```
+9. **Check Positive, Negative, or Zero**  
+   Read an integer and print whether it’s positive, negative, or zero.
 
-### Challenge 10 : Volume d'une sphère
-Écrivez un programme pour trouver le volume d'une sphère. Prenez le rayon de la sphère en entrée de l'utilisateur.
-Formule pour le volume d'une sphère :
-```
-Volume = (4/3) * π * r³
-```
+10. **Simple Interest Calculator**  
+    Read principal (float), rate (float), and time (int). Calculate and print simple interest.  
+    **Formula:**  
+    `Interest = (Principal × Rate × Time) / 100`
 
-### Challenge 11 : Surface d'un rectangle
-Écrivez un programme pour trouver la surface d'un rectangle. Prenez la longueur et la largeur du rectangle en entrée de l'utilisateur.
-Formule pour la surface d'un rectangle :
-```
-Surface = longueur * largeur
-```
+11. **ASCII Value**  
+    Read a character and print its ASCII value.
 
-### Challenge 12 : Nombre entier à quatre chiffres en ordre inverse
-Écrivez un programme C pour afficher un nombre entier à quatre chiffres dans l'ordre inverse sans utiliser de boucle. Par exemple, si le nombre entier est 1234, son inverse est 4321.
+12. **Last Digit of a Number**  
+    Read an integer and print its last digit.
 
+---
 
-### Challenge 13 : Affichage des valeurs binaire et hexadécimale équivalentes
-Écrivez un programme C pour afficher la valeur équivalente en binaire et en hexadécimal. Entrez un nombre entier et affichez ses valeurs équivalentes en binaire et en hexadécimal.
+## How to Use
 
+1. Create a new `.c` file for each exercise or implement them one by one in the same file.  
+2. Compile your program using:  
+   ```bash
+   gcc filename.c -o program
