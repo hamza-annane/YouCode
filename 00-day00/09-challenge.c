@@ -1,5 +1,9 @@
 #include <stdio.h>
-#include <math.h>   // Pour utiliser M_PI (valeur de π)
+#include <math.h>   // Pour pow()
+
+#ifndef M_PI
+#define M_PI 3.14159265358979323846
+#endif
 
 int main()
 {
